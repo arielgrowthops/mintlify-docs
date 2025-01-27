@@ -41,8 +41,20 @@
         "essentials/reusable-snippets"
       ]
     },
-        {
-      "group": "AIA TH",
+    {
+      "group": "AIA Thailand",
+      "pages": [
+        "aia-th/introduction"
+      ]
+    },
+    {
+      "group": "AIA Philippines",
+      "pages": [
+        "aia-th/introduction"
+      ]
+    },
+    {
+      "group": "BPI AIA",
       "pages": [
         "aia-th/introduction"
       ]
