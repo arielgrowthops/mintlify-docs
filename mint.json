@@ -31,12 +31,6 @@
       ]
     },
     {
-      "group": "Thailand",
-      "pages": [
-        "th/introduction"
-      ]
-    },
-    {
       "group": "Philippines",
       "pages": [
         "ph/introduction"
@@ -46,6 +40,12 @@
       "group": "BPI",
       "pages": [
         "bpi/introduction"
+      ]
+    },
+    {
+      "group": "Thailand",
+      "pages": [
+        "th/introduction"
       ]
     },
     {
