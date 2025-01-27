@@ -43,9 +43,9 @@
       ]
     },
     {
-      "group": "Philippines 2",
+      "group": "BPI",
       "pages": [
-        "ph2/introduction"
+        "bpi/introduction"
       ]
     },
     {
@@ -62,8 +62,5 @@
         "api-reference/endpoint/delete"
       ]
     }
-  ],
-  "footerSocials": {
-    "github": "https://github.com/growthops-fs"
-  }
+  ]
 }
