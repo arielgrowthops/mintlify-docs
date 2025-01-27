@@ -31,21 +31,21 @@
       ]
     },
     {
-      "group": "AIA Thailand",
+      "group": "Thailand",
       "pages": [
-        "aia-th/introduction"
+        "th/introduction"
       ]
     },
     {
-      "group": "AIA Philippines",
+      "group": "Philippines",
       "pages": [
-        "aia-ph/introduction"
+        "ph/introduction"
       ]
     },
     {
-      "group": "BPI AIA",
+      "group": "Philippines 2",
       "pages": [
-        "bpi-aia/introduction"
+        "ph2/introduction"
       ]
     },
     {
